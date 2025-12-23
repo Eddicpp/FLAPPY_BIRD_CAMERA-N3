@@ -31,6 +31,10 @@ Un innovativo gioco Flappy Bird che combina **Computer Vision**, **Realtà Aumen
 - **RL:** Q-Learning implementato con NumPy (no framework esterni)
 - **GUI:** Visualizzazione live con statistiche (FPS, epsilon, score)
 
+### Video
+
+https://github.com/user-attachments/assets/0337d6c9-f8a2-46ba-be85-a70de30d06bf
+
 ---
 
 ## 📦 Installazione
